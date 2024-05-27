@@ -1,0 +1,11 @@
+{
+    "name": "brady_james_bug",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Limb0-19/BradyJBug",
+    "description": "Replaces Hoarder Bug audio with the voice of legendary Brady James.",
+     "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-2.3.2",
+        "no00ob-LCSoundTool-1.5.1"
+     ]
+}
